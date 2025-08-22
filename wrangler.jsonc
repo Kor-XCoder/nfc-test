@@ -1,0 +1,8 @@
+{
+  "name": "nfc-test",
+  "assets": {
+    "not_found_handling": "single-page-application",
+    "directory": "./dist"
+  },
+  "compatibility_date": "2025-06-23"
+}
